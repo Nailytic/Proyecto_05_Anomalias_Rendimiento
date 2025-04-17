@@ -1,0 +1,1801 @@
+ID_Alumno,Centro,Grupo,Asignatura,Nota
+1,Centro 1,A,Matemáticas,8.28
+1,Centro 1,A,Lengua,9.52
+1,Centro 1,A,Historia,4.23
+1,Centro 1,A,Ciencias,7.0
+1,Centro 1,A,Inglés,6.42
+1,Centro 1,A,Educación Física,10.0
+2,Centro 5,A,Matemáticas,5.18
+2,Centro 5,A,Lengua,6.4
+2,Centro 5,A,Historia,5.83
+2,Centro 5,A,Ciencias,7.12
+2,Centro 5,A,Inglés,6.11
+2,Centro 5,A,Educación Física,8.73
+3,Centro 4,B,Matemáticas,6.51
+3,Centro 4,B,Lengua,5.72
+3,Centro 4,B,Historia,7.37
+3,Centro 4,B,Ciencias,8.05
+3,Centro 4,B,Inglés,6.53
+3,Centro 4,B,Educación Física,7.1
+4,Centro 3,B,Matemáticas,3.68
+4,Centro 3,B,Lengua,5.82
+4,Centro 3,B,Historia,7.83
+4,Centro 3,B,Ciencias,6.72
+4,Centro 3,B,Inglés,5.06
+4,Centro 3,B,Educación Física,8.08
+5,Centro 5,B,Matemáticas,4.67
+5,Centro 5,B,Lengua,5.56
+5,Centro 5,B,Historia,7.15
+5,Centro 5,B,Ciencias,4.23
+5,Centro 5,B,Inglés,7.75
+5,Centro 5,B,Educación Física,7.31
+6,Centro 3,B,Matemáticas,5.88
+6,Centro 3,B,Lengua,5.94
+6,Centro 3,B,Historia,8.84
+6,Centro 3,B,Ciencias,8.41
+6,Centro 3,B,Inglés,6.66
+6,Centro 3,B,Educación Física,7.88
+7,Centro 3,A,Matemáticas,8.35
+7,Centro 3,A,Lengua,5.38
+7,Centro 3,A,Historia,6.64
+7,Centro 3,A,Ciencias,7.02
+7,Centro 3,A,Inglés,8.34
+7,Centro 3,A,Educación Física,6.32
+8,Centro 1,A,Matemáticas,5.6
+8,Centro 1,A,Lengua,7.03
+8,Centro 1,A,Historia,3.84
+8,Centro 1,A,Ciencias,5.18
+8,Centro 1,A,Inglés,4.13
+8,Centro 1,A,Educación Física,6.32
+9,Centro 1,B,Matemáticas,5.64
+9,Centro 1,B,Lengua,5.32
+9,Centro 1,B,Historia,5.6
+9,Centro 1,B,Ciencias,6.04
+9,Centro 1,B,Inglés,7.96
+9,Centro 1,B,Educación Física,5.08
+10,Centro 1,B,Matemáticas,5.69
+10,Centro 1,B,Lengua,7.52
+10,Centro 1,B,Historia,5.4
+10,Centro 1,B,Ciencias,4.87
+10,Centro 1,B,Inglés,6.01
+10,Centro 1,B,Educación Física,5.89
+11,Centro 3,A,Matemáticas,7.96
+11,Centro 3,A,Lengua,4.72
+11,Centro 3,A,Historia,6.97
+11,Centro 3,A,Ciencias,5.06
+11,Centro 3,A,Inglés,8.34
+11,Centro 3,A,Educación Física,5.89
+12,Centro 4,B,Matemáticas,7.15
+12,Centro 4,B,Lengua,5.14
+12,Centro 4,B,Historia,6.95
+12,Centro 4,B,Ciencias,7.06
+12,Centro 4,B,Inglés,7.86
+12,Centro 4,B,Educación Física,7.9
+13,Centro 1,B,Matemáticas,5.7
+13,Centro 1,B,Lengua,5.97
+13,Centro 1,B,Historia,5.03
+13,Centro 1,B,Ciencias,6.13
+13,Centro 1,B,Inglés,4.17
+13,Centro 1,B,Educación Física,6.8
+14,Centro 2,A,Matemáticas,5.58
+14,Centro 2,A,Lengua,8.15
+14,Centro 2,A,Historia,7.43
+14,Centro 2,A,Ciencias,6.07
+14,Centro 2,A,Inglés,8.84
+14,Centro 2,A,Educación Física,5.62
+15,Centro 5,A,Matemáticas,8.48
+15,Centro 5,A,Lengua,5.8
+15,Centro 5,A,Historia,5.99
+15,Centro 5,A,Ciencias,7.89
+15,Centro 5,A,Inglés,1.61
+15,Centro 5,A,Educación Física,5.38
+16,Centro 4,A,Matemáticas,8.9
+16,Centro 4,A,Lengua,1.0
+16,Centro 4,A,Historia,10.0
+16,Centro 4,A,Ciencias,6.24
+16,Centro 4,A,Inglés,6.35
+16,Centro 4,A,Educación Física,4.4
+17,Centro 3,A,Matemáticas,5.35
+17,Centro 3,A,Lengua,6.75
+17,Centro 3,A,Historia,6.92
+17,Centro 3,A,Ciencias,2.0
+17,Centro 3,A,Inglés,9.38
+17,Centro 3,A,Educación Física,9.01
+18,Centro 4,A,Matemáticas,7.93
+18,Centro 4,A,Lengua,10.0
+18,Centro 4,A,Historia,5.43
+18,Centro 4,A,Ciencias,4.38
+18,Centro 4,A,Inglés,6.23
+18,Centro 4,A,Educación Física,6.18
+19,Centro 3,B,Matemáticas,7.1
+19,Centro 3,B,Lengua,6.11
+19,Centro 3,B,Historia,6.09
+19,Centro 3,B,Ciencias,9.5
+19,Centro 3,B,Inglés,6.8
+19,Centro 3,B,Educación Física,6.66
+20,Centro 3,A,Matemáticas,6.15
+20,Centro 3,A,Lengua,4.92
+20,Centro 3,A,Historia,9.36
+20,Centro 3,A,Ciencias,7.28
+20,Centro 3,A,Inglés,7.64
+20,Centro 3,A,Educación Física,5.04
+21,Centro 2,B,Matemáticas,5.3
+21,Centro 2,B,Lengua,7.56
+21,Centro 2,B,Historia,4.44
+21,Centro 2,B,Ciencias,7.67
+21,Centro 2,B,Inglés,7.43
+21,Centro 2,B,Educación Física,5.99
+22,Centro 1,A,Matemáticas,8.88
+22,Centro 1,A,Lengua,7.0
+22,Centro 1,A,Historia,5.5
+22,Centro 1,A,Ciencias,7.58
+22,Centro 1,A,Inglés,6.77
+22,Centro 1,A,Educación Física,5.89
+23,Centro 2,A,Matemáticas,7.21
+23,Centro 2,A,Lengua,7.22
+23,Centro 2,A,Historia,10.0
+23,Centro 2,A,Ciencias,2.93
+23,Centro 2,A,Inglés,7.73
+23,Centro 2,A,Educación Física,6.53
+24,Centro 1,A,Matemáticas,7.07
+24,Centro 1,A,Lengua,7.48
+24,Centro 1,A,Historia,6.14
+24,Centro 1,A,Ciencias,6.81
+24,Centro 1,A,Inglés,6.74
+24,Centro 1,A,Educación Física,6.4
+25,Centro 1,B,Matemáticas,4.6
+25,Centro 1,B,Lengua,5.67
+25,Centro 1,B,Historia,7.96
+25,Centro 1,B,Ciencias,5.76
+25,Centro 1,B,Inglés,9.01
+25,Centro 1,B,Educación Física,6.52
+26,Centro 4,B,Matemáticas,3.86
+26,Centro 4,B,Lengua,5.89
+26,Centro 4,B,Historia,7.72
+26,Centro 4,B,Ciencias,6.53
+26,Centro 4,B,Inglés,3.87
+26,Centro 4,B,Educación Física,7.53
+27,Centro 2,B,Matemáticas,9.0
+27,Centro 2,B,Lengua,5.53
+27,Centro 2,B,Historia,7.14
+27,Centro 2,B,Ciencias,6.5
+27,Centro 2,B,Inglés,7.78
+27,Centro 2,B,Educación Física,2.35
+28,Centro 3,B,Matemáticas,2.7
+28,Centro 3,B,Lengua,1.0
+28,Centro 3,B,Historia,7.03
+28,Centro 3,B,Ciencias,5.81
+28,Centro 3,B,Inglés,8.31
+28,Centro 3,B,Educación Física,5.91
+29,Centro 4,B,Matemáticas,7.01
+29,Centro 4,B,Lengua,6.48
+29,Centro 4,B,Historia,4.82
+29,Centro 4,B,Ciencias,7.81
+29,Centro 4,B,Inglés,6.26
+29,Centro 4,B,Educación Física,5.06
+30,Centro 3,B,Matemáticas,6.79
+30,Centro 3,B,Lengua,6.99
+30,Centro 3,B,Historia,5.37
+30,Centro 3,B,Ciencias,7.78
+30,Centro 3,B,Inglés,7.04
+30,Centro 3,B,Educación Física,6.29
+31,Centro 2,A,Matemáticas,7.23
+31,Centro 2,A,Lengua,5.04
+31,Centro 2,A,Historia,7.82
+31,Centro 2,A,Ciencias,7.64
+31,Centro 2,A,Inglés,7.55
+31,Centro 2,A,Educación Física,6.81
+32,Centro 2,B,Matemáticas,10.0
+32,Centro 2,B,Lengua,7.55
+32,Centro 2,B,Historia,5.53
+32,Centro 2,B,Ciencias,4.34
+32,Centro 2,B,Inglés,6.57
+32,Centro 2,B,Educación Física,2.0
+33,Centro 1,B,Matemáticas,7.27
+33,Centro 1,B,Lengua,7.32
+33,Centro 1,B,Historia,7.04
+33,Centro 1,B,Ciencias,6.48
+33,Centro 1,B,Inglés,7.22
+33,Centro 1,B,Educación Física,5.96
+34,Centro 3,A,Matemáticas,8.59
+34,Centro 3,A,Lengua,8.36
+34,Centro 3,A,Historia,8.81
+34,Centro 3,A,Ciencias,6.31
+34,Centro 3,A,Inglés,4.73
+34,Centro 3,A,Educación Física,7.26
+35,Centro 5,A,Matemáticas,4.95
+35,Centro 5,A,Lengua,5.66
+35,Centro 5,A,Historia,6.86
+35,Centro 5,A,Ciencias,6.87
+35,Centro 5,A,Inglés,9.5
+35,Centro 5,A,Educación Física,7.53
+36,Centro 1,A,Matemáticas,7.65
+36,Centro 1,A,Lengua,5.99
+36,Centro 1,A,Historia,7.44
+36,Centro 1,A,Ciencias,6.13
+36,Centro 1,A,Inglés,7.82
+36,Centro 1,A,Educación Física,1.59
+37,Centro 4,B,Matemáticas,9.24
+37,Centro 4,B,Lengua,7.65
+37,Centro 4,B,Historia,5.1
+37,Centro 4,B,Ciencias,6.45
+37,Centro 4,B,Inglés,5.65
+37,Centro 4,B,Educación Física,6.86
+38,Centro 2,A,Matemáticas,4.78
+38,Centro 2,A,Lengua,4.95
+38,Centro 2,A,Historia,10.0
+38,Centro 2,A,Ciencias,4.95
+38,Centro 2,A,Inglés,6.03
+38,Centro 2,A,Educación Física,6.82
+39,Centro 3,B,Matemáticas,5.52
+39,Centro 3,B,Lengua,7.69
+39,Centro 3,B,Historia,5.67
+39,Centro 3,B,Ciencias,3.98
+39,Centro 3,B,Inglés,7.81
+39,Centro 3,B,Educación Física,4.34
+40,Centro 3,B,Matemáticas,6.91
+40,Centro 3,B,Lengua,8.29
+40,Centro 3,B,Historia,7.85
+40,Centro 3,B,Ciencias,7.56
+40,Centro 3,B,Inglés,4.38
+40,Centro 3,B,Educación Física,7.42
+41,Centro 2,B,Matemáticas,4.04
+41,Centro 2,B,Lengua,7.28
+41,Centro 2,B,Historia,4.19
+41,Centro 2,B,Ciencias,7.16
+41,Centro 2,B,Inglés,6.53
+41,Centro 2,B,Educación Física,8.91
+42,Centro 4,B,Matemáticas,6.21
+42,Centro 4,B,Lengua,6.87
+42,Centro 4,B,Historia,7.12
+42,Centro 4,B,Ciencias,7.17
+42,Centro 4,B,Inglés,8.94
+42,Centro 4,B,Educación Física,4.26
+43,Centro 5,B,Matemáticas,8.17
+43,Centro 5,B,Lengua,10.0
+43,Centro 5,B,Historia,3.82
+43,Centro 5,B,Ciencias,9.85
+43,Centro 5,B,Inglés,6.0
+43,Centro 5,B,Educación Física,6.7
+44,Centro 3,B,Matemáticas,7.39
+44,Centro 3,B,Lengua,7.83
+44,Centro 3,B,Historia,4.84
+44,Centro 3,B,Ciencias,6.17
+44,Centro 3,B,Inglés,6.15
+44,Centro 3,B,Educación Física,5.05
+45,Centro 4,B,Matemáticas,8.87
+45,Centro 4,B,Lengua,7.54
+45,Centro 4,B,Historia,3.67
+45,Centro 4,B,Ciencias,4.79
+45,Centro 4,B,Inglés,8.21
+45,Centro 4,B,Educación Física,6.42
+46,Centro 3,A,Matemáticas,2.82
+46,Centro 3,A,Lengua,6.48
+46,Centro 3,A,Historia,6.2
+46,Centro 3,A,Ciencias,5.38
+46,Centro 3,A,Inglés,5.81
+46,Centro 3,A,Educación Física,7.81
+47,Centro 4,B,Matemáticas,7.5
+47,Centro 4,B,Lengua,5.98
+47,Centro 4,B,Historia,6.82
+47,Centro 4,B,Ciencias,10.0
+47,Centro 4,B,Inglés,1.0
+47,Centro 4,B,Educación Física,4.62
+48,Centro 5,A,Matemáticas,7.79
+48,Centro 5,A,Lengua,5.23
+48,Centro 5,A,Historia,6.49
+48,Centro 5,A,Ciencias,6.08
+48,Centro 5,A,Inglés,9.78
+48,Centro 5,A,Educación Física,8.53
+49,Centro 5,B,Matemáticas,6.8
+49,Centro 5,B,Lengua,4.72
+49,Centro 5,B,Historia,3.93
+49,Centro 5,B,Ciencias,8.09
+49,Centro 5,B,Inglés,5.38
+49,Centro 5,B,Educación Física,7.15
+50,Centro 4,B,Matemáticas,6.27
+50,Centro 4,B,Lengua,8.69
+50,Centro 4,B,Historia,6.84
+50,Centro 4,B,Ciencias,8.57
+50,Centro 4,B,Inglés,5.85
+50,Centro 4,B,Educación Física,6.62
+51,Centro 1,B,Matemáticas,5.19
+51,Centro 1,B,Lengua,7.07
+51,Centro 1,B,Historia,8.6
+51,Centro 1,B,Ciencias,7.73
+51,Centro 1,B,Inglés,6.7
+51,Centro 1,B,Educación Física,6.66
+52,Centro 5,A,Matemáticas,4.82
+52,Centro 5,A,Lengua,6.89
+52,Centro 5,A,Historia,8.62
+52,Centro 5,A,Ciencias,5.55
+52,Centro 5,A,Inglés,6.29
+52,Centro 5,A,Educación Física,6.09
+53,Centro 3,A,Matemáticas,6.38
+53,Centro 3,A,Lengua,7.16
+53,Centro 3,A,Historia,7.46
+53,Centro 3,A,Ciencias,7.55
+53,Centro 3,A,Inglés,6.73
+53,Centro 3,A,Educación Física,7.32
+54,Centro 4,A,Matemáticas,5.72
+54,Centro 4,A,Lengua,4.16
+54,Centro 4,A,Historia,7.84
+54,Centro 4,A,Ciencias,6.1
+54,Centro 4,A,Inglés,6.61
+54,Centro 4,A,Educación Física,7.14
+55,Centro 5,A,Matemáticas,9.18
+55,Centro 5,A,Lengua,7.14
+55,Centro 5,A,Historia,7.7
+55,Centro 5,A,Ciencias,4.81
+55,Centro 5,A,Inglés,4.4
+55,Centro 5,A,Educación Física,4.23
+56,Centro 4,B,Matemáticas,6.58
+56,Centro 4,B,Lengua,2.58
+56,Centro 4,B,Historia,4.81
+56,Centro 4,B,Ciencias,8.16
+56,Centro 4,B,Inglés,5.54
+56,Centro 4,B,Educación Física,8.37
+57,Centro 2,B,Matemáticas,6.79
+57,Centro 2,B,Lengua,7.06
+57,Centro 2,B,Historia,5.17
+57,Centro 2,B,Ciencias,6.41
+57,Centro 2,B,Inglés,10.0
+57,Centro 2,B,Educación Física,5.56
+58,Centro 2,B,Matemáticas,6.55
+58,Centro 2,B,Lengua,3.42
+58,Centro 2,B,Historia,9.5
+58,Centro 2,B,Ciencias,7.47
+58,Centro 2,B,Inglés,5.18
+58,Centro 2,B,Educación Física,4.88
+59,Centro 4,B,Matemáticas,8.48
+59,Centro 4,B,Lengua,5.67
+59,Centro 4,B,Historia,8.37
+59,Centro 4,B,Ciencias,7.58
+59,Centro 4,B,Inglés,5.53
+59,Centro 4,B,Educación Física,7.23
+60,Centro 4,B,Matemáticas,4.39
+60,Centro 4,B,Lengua,7.03
+60,Centro 4,B,Historia,5.58
+60,Centro 4,B,Ciencias,9.69
+60,Centro 4,B,Inglés,8.9
+60,Centro 4,B,Educación Física,6.79
+61,Centro 1,A,Matemáticas,10.0
+61,Centro 1,A,Lengua,6.98
+61,Centro 1,A,Historia,6.3
+61,Centro 1,A,Ciencias,5.91
+61,Centro 1,A,Inglés,9.21
+61,Centro 1,A,Educación Física,8.17
+62,Centro 5,A,Matemáticas,7.47
+62,Centro 5,A,Lengua,6.65
+62,Centro 5,A,Historia,5.91
+62,Centro 5,A,Ciencias,8.07
+62,Centro 5,A,Inglés,6.68
+62,Centro 5,A,Educación Física,4.99
+63,Centro 2,A,Matemáticas,8.12
+63,Centro 2,A,Lengua,6.41
+63,Centro 2,A,Historia,6.98
+63,Centro 2,A,Ciencias,4.92
+63,Centro 2,A,Inglés,6.52
+63,Centro 2,A,Educación Física,7.14
+64,Centro 2,B,Matemáticas,5.67
+64,Centro 2,B,Lengua,7.59
+64,Centro 2,B,Historia,7.44
+64,Centro 2,B,Ciencias,7.9
+64,Centro 2,B,Inglés,6.57
+64,Centro 2,B,Educación Física,9.11
+65,Centro 1,B,Matemáticas,6.85
+65,Centro 1,B,Lengua,5.64
+65,Centro 1,B,Historia,6.24
+65,Centro 1,B,Ciencias,6.71
+65,Centro 1,B,Inglés,7.38
+65,Centro 1,B,Educación Física,8.47
+66,Centro 3,B,Matemáticas,2.0
+66,Centro 3,B,Lengua,4.43
+66,Centro 3,B,Historia,7.9
+66,Centro 3,B,Ciencias,6.17
+66,Centro 3,B,Inglés,5.69
+66,Centro 3,B,Educación Física,5.4
+67,Centro 3,B,Matemáticas,5.82
+67,Centro 3,B,Lengua,9.02
+67,Centro 3,B,Historia,6.83
+67,Centro 3,B,Ciencias,4.22
+67,Centro 3,B,Inglés,5.1
+67,Centro 3,B,Educación Física,8.6
+68,Centro 2,B,Matemáticas,7.74
+68,Centro 2,B,Lengua,8.53
+68,Centro 2,B,Historia,8.63
+68,Centro 2,B,Ciencias,8.0
+68,Centro 2,B,Inglés,6.52
+68,Centro 2,B,Educación Física,5.4
+69,Centro 5,A,Matemáticas,5.9
+69,Centro 5,A,Lengua,6.37
+69,Centro 5,A,Historia,5.44
+69,Centro 5,A,Ciencias,8.57
+69,Centro 5,A,Inglés,6.53
+69,Centro 5,A,Educación Física,5.54
+70,Centro 3,A,Matemáticas,8.44
+70,Centro 3,A,Lengua,7.82
+70,Centro 3,A,Historia,8.82
+70,Centro 3,A,Ciencias,9.14
+70,Centro 3,A,Inglés,2.41
+70,Centro 3,A,Educación Física,8.62
+71,Centro 3,B,Matemáticas,8.75
+71,Centro 3,B,Lengua,6.3
+71,Centro 3,B,Historia,5.87
+71,Centro 3,B,Ciencias,5.58
+71,Centro 3,B,Inglés,2.0
+71,Centro 3,B,Educación Física,5.89
+72,Centro 4,B,Matemáticas,6.7
+72,Centro 4,B,Lengua,5.5
+72,Centro 4,B,Historia,6.27
+72,Centro 4,B,Ciencias,5.51
+72,Centro 4,B,Inglés,5.27
+72,Centro 4,B,Educación Física,3.43
+73,Centro 1,B,Matemáticas,8.67
+73,Centro 1,B,Lengua,9.98
+73,Centro 1,B,Historia,6.27
+73,Centro 1,B,Ciencias,7.4
+73,Centro 1,B,Inglés,10.0
+73,Centro 1,B,Educación Física,9.74
+74,Centro 4,A,Matemáticas,7.97
+74,Centro 4,A,Lengua,5.9
+74,Centro 4,A,Historia,7.11
+74,Centro 4,A,Ciencias,4.72
+74,Centro 4,A,Inglés,4.67
+74,Centro 4,A,Educación Física,6.14
+75,Centro 2,A,Matemáticas,6.01
+75,Centro 2,A,Lengua,5.94
+75,Centro 2,A,Historia,4.97
+75,Centro 2,A,Ciencias,7.75
+75,Centro 2,A,Inglés,6.07
+75,Centro 2,A,Educación Física,4.1
+76,Centro 4,B,Matemáticas,4.73
+76,Centro 4,B,Lengua,6.93
+76,Centro 4,B,Historia,7.51
+76,Centro 4,B,Ciencias,3.31
+76,Centro 4,B,Inglés,6.65
+76,Centro 4,B,Educación Física,6.02
+77,Centro 1,A,Matemáticas,7.17
+77,Centro 1,A,Lengua,5.52
+77,Centro 1,A,Historia,4.45
+77,Centro 1,A,Ciencias,6.63
+77,Centro 1,A,Inglés,7.29
+77,Centro 1,A,Educación Física,6.68
+78,Centro 2,A,Matemáticas,5.94
+78,Centro 2,A,Lengua,5.06
+78,Centro 2,A,Historia,5.14
+78,Centro 2,A,Ciencias,7.28
+78,Centro 2,A,Inglés,7.41
+78,Centro 2,A,Educación Física,7.27
+79,Centro 2,A,Matemáticas,4.3
+79,Centro 2,A,Lengua,6.11
+79,Centro 2,A,Historia,4.18
+79,Centro 2,A,Ciencias,5.46
+79,Centro 2,A,Inglés,4.61
+79,Centro 2,A,Educación Física,7.66
+80,Centro 4,A,Matemáticas,7.26
+80,Centro 4,A,Lengua,6.24
+80,Centro 4,A,Historia,6.41
+80,Centro 4,A,Ciencias,8.27
+80,Centro 4,A,Inglés,6.64
+80,Centro 4,A,Educación Física,10.0
+81,Centro 2,A,Matemáticas,4.3
+81,Centro 2,A,Lengua,8.32
+81,Centro 2,A,Historia,9.14
+81,Centro 2,A,Ciencias,4.06
+81,Centro 2,A,Inglés,5.96
+81,Centro 2,A,Educación Física,5.6
+82,Centro 2,B,Matemáticas,7.44
+82,Centro 2,B,Lengua,4.9
+82,Centro 2,B,Historia,4.87
+82,Centro 2,B,Ciencias,1.0
+82,Centro 2,B,Inglés,5.88
+82,Centro 2,B,Educación Física,7.75
+83,Centro 2,A,Matemáticas,7.28
+83,Centro 2,A,Lengua,3.25
+83,Centro 2,A,Historia,2.0
+83,Centro 2,A,Ciencias,6.65
+83,Centro 2,A,Inglés,6.23
+83,Centro 2,A,Educación Física,7.74
+84,Centro 5,B,Matemáticas,5.26
+84,Centro 5,B,Lengua,5.74
+84,Centro 5,B,Historia,5.1
+84,Centro 5,B,Ciencias,7.11
+84,Centro 5,B,Inglés,7.28
+84,Centro 5,B,Educación Física,5.58
+85,Centro 1,B,Matemáticas,5.52
+85,Centro 1,B,Lengua,1.0
+85,Centro 1,B,Historia,6.56
+85,Centro 1,B,Ciencias,7.19
+85,Centro 1,B,Inglés,6.73
+85,Centro 1,B,Educación Física,4.78
+86,Centro 1,A,Matemáticas,7.41
+86,Centro 1,A,Lengua,2.96
+86,Centro 1,A,Historia,5.88
+86,Centro 1,A,Ciencias,8.37
+86,Centro 1,A,Inglés,8.27
+86,Centro 1,A,Educación Física,6.82
+87,Centro 1,B,Matemáticas,4.75
+87,Centro 1,B,Lengua,6.58
+87,Centro 1,B,Historia,6.52
+87,Centro 1,B,Ciencias,9.05
+87,Centro 1,B,Inglés,6.14
+87,Centro 1,B,Educación Física,9.53
+88,Centro 3,A,Matemáticas,6.93
+88,Centro 3,A,Lengua,5.03
+88,Centro 3,A,Historia,8.57
+88,Centro 3,A,Ciencias,5.59
+88,Centro 3,A,Inglés,3.32
+88,Centro 3,A,Educación Física,9.5
+89,Centro 5,B,Matemáticas,8.1
+89,Centro 5,B,Lengua,5.04
+89,Centro 5,B,Historia,5.8
+89,Centro 5,B,Ciencias,4.43
+89,Centro 5,B,Inglés,6.56
+89,Centro 5,B,Educación Física,6.36
+90,Centro 3,A,Matemáticas,5.68
+90,Centro 3,A,Lengua,5.58
+90,Centro 3,A,Historia,6.0
+90,Centro 3,A,Ciencias,6.95
+90,Centro 3,A,Inglés,9.32
+90,Centro 3,A,Educación Física,5.02
+91,Centro 3,A,Matemáticas,5.11
+91,Centro 3,A,Lengua,3.89
+91,Centro 3,A,Historia,7.41
+91,Centro 3,A,Ciencias,8.45
+91,Centro 3,A,Inglés,4.32
+91,Centro 3,A,Educación Física,6.83
+92,Centro 3,A,Matemáticas,6.23
+92,Centro 3,A,Lengua,7.08
+92,Centro 3,A,Historia,8.8
+92,Centro 3,A,Ciencias,7.35
+92,Centro 3,A,Inglés,7.37
+92,Centro 3,A,Educación Física,7.04
+93,Centro 2,A,Matemáticas,5.92
+93,Centro 2,A,Lengua,5.04
+93,Centro 2,A,Historia,2.0
+93,Centro 2,A,Ciencias,6.52
+93,Centro 2,A,Inglés,8.35
+93,Centro 2,A,Educación Física,5.25
+94,Centro 2,A,Matemáticas,7.54
+94,Centro 2,A,Lengua,6.52
+94,Centro 2,A,Historia,7.3
+94,Centro 2,A,Ciencias,7.24
+94,Centro 2,A,Inglés,4.2
+94,Centro 2,A,Educación Física,6.07
+95,Centro 4,B,Matemáticas,7.94
+95,Centro 4,B,Lengua,7.09
+95,Centro 4,B,Historia,7.62
+95,Centro 4,B,Ciencias,5.95
+95,Centro 4,B,Inglés,8.43
+95,Centro 4,B,Educación Física,7.66
+96,Centro 2,A,Matemáticas,8.27
+96,Centro 2,A,Lengua,6.29
+96,Centro 2,A,Historia,6.94
+96,Centro 2,A,Ciencias,8.31
+96,Centro 2,A,Inglés,5.4
+96,Centro 2,A,Educación Física,8.38
+97,Centro 3,A,Matemáticas,5.93
+97,Centro 3,A,Lengua,5.46
+97,Centro 3,A,Historia,5.49
+97,Centro 3,A,Ciencias,6.81
+97,Centro 3,A,Inglés,7.08
+97,Centro 3,A,Educación Física,7.06
+98,Centro 1,A,Matemáticas,3.11
+98,Centro 1,A,Lengua,5.28
+98,Centro 1,A,Historia,10.0
+98,Centro 1,A,Ciencias,6.07
+98,Centro 1,A,Inglés,5.85
+98,Centro 1,A,Educación Física,5.71
+99,Centro 5,A,Matemáticas,7.52
+99,Centro 5,A,Lengua,7.12
+99,Centro 5,A,Historia,8.27
+99,Centro 5,A,Ciencias,5.09
+99,Centro 5,A,Inglés,3.95
+99,Centro 5,A,Educación Física,5.07
+100,Centro 4,A,Matemáticas,5.92
+100,Centro 4,A,Lengua,6.67
+100,Centro 4,A,Historia,6.17
+100,Centro 4,A,Ciencias,9.44
+100,Centro 4,A,Inglés,7.64
+100,Centro 4,A,Educación Física,7.67
+101,Centro 4,B,Matemáticas,6.58
+101,Centro 4,B,Lengua,5.6
+101,Centro 4,B,Historia,8.39
+101,Centro 4,B,Ciencias,7.05
+101,Centro 4,B,Inglés,5.97
+101,Centro 4,B,Educación Física,6.58
+102,Centro 2,B,Matemáticas,4.0
+102,Centro 2,B,Lengua,3.71
+102,Centro 2,B,Historia,4.86
+102,Centro 2,B,Ciencias,6.24
+102,Centro 2,B,Inglés,3.9
+102,Centro 2,B,Educación Física,6.89
+103,Centro 3,A,Matemáticas,5.47
+103,Centro 3,A,Lengua,5.04
+103,Centro 3,A,Historia,6.39
+103,Centro 3,A,Ciencias,6.95
+103,Centro 3,A,Inglés,6.48
+103,Centro 3,A,Educación Física,7.42
+104,Centro 5,B,Matemáticas,6.89
+104,Centro 5,B,Lengua,8.78
+104,Centro 5,B,Historia,9.59
+104,Centro 5,B,Ciencias,6.22
+104,Centro 5,B,Inglés,6.1
+104,Centro 5,B,Educación Física,4.02
+105,Centro 3,B,Matemáticas,8.74
+105,Centro 3,B,Lengua,5.47
+105,Centro 3,B,Historia,7.0
+105,Centro 3,B,Ciencias,8.55
+105,Centro 3,B,Inglés,7.78
+105,Centro 3,B,Educación Física,6.32
+106,Centro 3,B,Matemáticas,4.75
+106,Centro 3,B,Lengua,6.04
+106,Centro 3,B,Historia,3.38
+106,Centro 3,B,Ciencias,6.98
+106,Centro 3,B,Inglés,6.43
+106,Centro 3,B,Educación Física,3.32
+107,Centro 1,B,Matemáticas,5.63
+107,Centro 1,B,Lengua,5.08
+107,Centro 1,B,Historia,6.84
+107,Centro 1,B,Ciencias,5.0
+107,Centro 1,B,Inglés,6.31
+107,Centro 1,B,Educación Física,6.12
+108,Centro 3,A,Matemáticas,6.9
+108,Centro 3,A,Lengua,8.96
+108,Centro 3,A,Historia,7.19
+108,Centro 3,A,Ciencias,8.39
+108,Centro 3,A,Inglés,8.82
+108,Centro 3,A,Educación Física,6.87
+109,Centro 3,A,Matemáticas,6.03
+109,Centro 3,A,Lengua,3.85
+109,Centro 3,A,Historia,9.35
+109,Centro 3,A,Ciencias,6.27
+109,Centro 3,A,Inglés,7.85
+109,Centro 3,A,Educación Física,8.21
+110,Centro 3,A,Matemáticas,6.67
+110,Centro 3,A,Lengua,6.93
+110,Centro 3,A,Historia,8.71
+110,Centro 3,A,Ciencias,8.38
+110,Centro 3,A,Inglés,2.2
+110,Centro 3,A,Educación Física,7.25
+111,Centro 2,B,Matemáticas,7.86
+111,Centro 2,B,Lengua,9.94
+111,Centro 2,B,Historia,6.32
+111,Centro 2,B,Ciencias,5.61
+111,Centro 2,B,Inglés,4.01
+111,Centro 2,B,Educación Física,6.1
+112,Centro 1,A,Matemáticas,5.91
+112,Centro 1,A,Lengua,6.9
+112,Centro 1,A,Historia,10.0
+112,Centro 1,A,Ciencias,6.7
+112,Centro 1,A,Inglés,6.11
+112,Centro 1,A,Educación Física,3.38
+113,Centro 4,B,Matemáticas,5.55
+113,Centro 4,B,Lengua,4.95
+113,Centro 4,B,Historia,6.87
+113,Centro 4,B,Ciencias,6.27
+113,Centro 4,B,Inglés,4.3
+113,Centro 4,B,Educación Física,7.24
+114,Centro 4,A,Matemáticas,4.89
+114,Centro 4,A,Lengua,5.61
+114,Centro 4,A,Historia,8.13
+114,Centro 4,A,Ciencias,7.81
+114,Centro 4,A,Inglés,6.99
+114,Centro 4,A,Educación Física,7.56
+115,Centro 3,A,Matemáticas,6.9
+115,Centro 3,A,Lengua,8.29
+115,Centro 3,A,Historia,7.82
+115,Centro 3,A,Ciencias,9.69
+115,Centro 3,A,Inglés,5.56
+115,Centro 3,A,Educación Física,5.11
+116,Centro 1,B,Matemáticas,5.14
+116,Centro 1,B,Lengua,6.67
+116,Centro 1,B,Historia,4.83
+116,Centro 1,B,Ciencias,7.55
+116,Centro 1,B,Inglés,5.38
+116,Centro 1,B,Educación Física,10.0
+117,Centro 2,A,Matemáticas,4.58
+117,Centro 2,A,Lengua,3.7
+117,Centro 2,A,Historia,9.5
+117,Centro 2,A,Ciencias,5.39
+117,Centro 2,A,Inglés,10.0
+117,Centro 2,A,Educación Física,5.14
+118,Centro 2,A,Matemáticas,5.28
+118,Centro 2,A,Lengua,5.97
+118,Centro 2,A,Historia,4.62
+118,Centro 2,A,Ciencias,6.07
+118,Centro 2,A,Inglés,3.72
+118,Centro 2,A,Educación Física,6.06
+119,Centro 1,B,Matemáticas,7.22
+119,Centro 1,B,Lengua,8.04
+119,Centro 1,B,Historia,6.39
+119,Centro 1,B,Ciencias,8.19
+119,Centro 1,B,Inglés,1.0
+119,Centro 1,B,Educación Física,6.25
+120,Centro 4,A,Matemáticas,7.56
+120,Centro 4,A,Lengua,7.23
+120,Centro 4,A,Historia,5.62
+120,Centro 4,A,Ciencias,8.71
+120,Centro 4,A,Inglés,5.49
+120,Centro 4,A,Educación Física,5.88
+121,Centro 1,A,Matemáticas,7.34
+121,Centro 1,A,Lengua,7.24
+121,Centro 1,A,Historia,5.48
+121,Centro 1,A,Ciencias,8.27
+121,Centro 1,A,Inglés,10.0
+121,Centro 1,A,Educación Física,5.97
+122,Centro 2,B,Matemáticas,4.47
+122,Centro 2,B,Lengua,6.65
+122,Centro 2,B,Historia,7.92
+122,Centro 2,B,Ciencias,6.29
+122,Centro 2,B,Inglés,4.85
+122,Centro 2,B,Educación Física,6.96
+123,Centro 5,B,Matemáticas,6.89
+123,Centro 5,B,Lengua,1.0
+123,Centro 5,B,Historia,5.68
+123,Centro 5,B,Ciencias,6.05
+123,Centro 5,B,Inglés,5.45
+123,Centro 5,B,Educación Física,8.09
+124,Centro 1,B,Matemáticas,3.07
+124,Centro 1,B,Lengua,8.19
+124,Centro 1,B,Historia,7.86
+124,Centro 1,B,Ciencias,8.92
+124,Centro 1,B,Inglés,5.33
+124,Centro 1,B,Educación Física,4.25
+125,Centro 4,B,Matemáticas,5.42
+125,Centro 4,B,Lengua,8.88
+125,Centro 4,B,Historia,5.56
+125,Centro 4,B,Ciencias,6.78
+125,Centro 4,B,Inglés,4.52
+125,Centro 4,B,Educación Física,4.49
+126,Centro 3,A,Matemáticas,9.5
+126,Centro 3,A,Lengua,5.57
+126,Centro 3,A,Historia,6.59
+126,Centro 3,A,Ciencias,6.92
+126,Centro 3,A,Inglés,6.34
+126,Centro 3,A,Educación Física,7.3
+127,Centro 5,A,Matemáticas,7.24
+127,Centro 5,A,Lengua,5.35
+127,Centro 5,A,Historia,7.5
+127,Centro 5,A,Ciencias,6.21
+127,Centro 5,A,Inglés,9.32
+127,Centro 5,A,Educación Física,5.63
+128,Centro 2,A,Matemáticas,6.99
+128,Centro 2,A,Lengua,8.27
+128,Centro 2,A,Historia,7.15
+128,Centro 2,A,Ciencias,7.99
+128,Centro 2,A,Inglés,5.63
+128,Centro 2,A,Educación Física,4.03
+129,Centro 5,B,Matemáticas,2.15
+129,Centro 5,B,Lengua,6.16
+129,Centro 5,B,Historia,10.0
+129,Centro 5,B,Ciencias,5.84
+129,Centro 5,B,Inglés,9.58
+129,Centro 5,B,Educación Física,8.18
+130,Centro 2,B,Matemáticas,4.28
+130,Centro 2,B,Lengua,6.01
+130,Centro 2,B,Historia,5.89
+130,Centro 2,B,Ciencias,3.91
+130,Centro 2,B,Inglés,7.15
+130,Centro 2,B,Educación Física,5.73
+131,Centro 2,A,Matemáticas,8.58
+131,Centro 2,A,Lengua,2.0
+131,Centro 2,A,Historia,6.6
+131,Centro 2,A,Ciencias,6.1
+131,Centro 2,A,Inglés,9.3
+131,Centro 2,A,Educación Física,6.41
+132,Centro 3,B,Matemáticas,7.34
+132,Centro 3,B,Lengua,8.4
+132,Centro 3,B,Historia,4.75
+132,Centro 3,B,Ciencias,7.45
+132,Centro 3,B,Inglés,8.08
+132,Centro 3,B,Educación Física,8.18
+133,Centro 2,A,Matemáticas,6.95
+133,Centro 2,A,Lengua,1.0
+133,Centro 2,A,Historia,3.71
+133,Centro 2,A,Ciencias,1.0
+133,Centro 2,A,Inglés,6.29
+133,Centro 2,A,Educación Física,7.37
+134,Centro 4,A,Matemáticas,5.8
+134,Centro 4,A,Lengua,7.57
+134,Centro 4,A,Historia,7.37
+134,Centro 4,A,Ciencias,5.38
+134,Centro 4,A,Inglés,8.0
+134,Centro 4,A,Educación Física,7.89
+135,Centro 2,A,Matemáticas,6.55
+135,Centro 2,A,Lengua,7.06
+135,Centro 2,A,Historia,7.45
+135,Centro 2,A,Ciencias,8.7
+135,Centro 2,A,Inglés,6.76
+135,Centro 2,A,Educación Física,4.65
+136,Centro 3,B,Matemáticas,5.38
+136,Centro 3,B,Lengua,4.37
+136,Centro 3,B,Historia,7.43
+136,Centro 3,B,Ciencias,4.67
+136,Centro 3,B,Inglés,8.96
+136,Centro 3,B,Educación Física,9.5
+137,Centro 1,A,Matemáticas,5.21
+137,Centro 1,A,Lengua,9.83
+137,Centro 1,A,Historia,5.62
+137,Centro 1,A,Ciencias,4.62
+137,Centro 1,A,Inglés,3.23
+137,Centro 1,A,Educación Física,2.94
+138,Centro 2,A,Matemáticas,3.47
+138,Centro 2,A,Lengua,6.11
+138,Centro 2,A,Historia,7.59
+138,Centro 2,A,Ciencias,6.8
+138,Centro 2,A,Inglés,5.35
+138,Centro 2,A,Educación Física,7.95
+139,Centro 2,A,Matemáticas,6.14
+139,Centro 2,A,Lengua,6.17
+139,Centro 2,A,Historia,4.48
+139,Centro 2,A,Ciencias,7.83
+139,Centro 2,A,Inglés,1.0
+139,Centro 2,A,Educación Física,7.63
+140,Centro 3,B,Matemáticas,6.82
+140,Centro 3,B,Lengua,3.65
+140,Centro 3,B,Historia,7.44
+140,Centro 3,B,Ciencias,5.54
+140,Centro 3,B,Inglés,8.6
+140,Centro 3,B,Educación Física,6.5
+141,Centro 5,A,Matemáticas,4.16
+141,Centro 5,A,Lengua,3.97
+141,Centro 5,A,Historia,4.96
+141,Centro 5,A,Ciencias,8.02
+141,Centro 5,A,Inglés,6.65
+141,Centro 5,A,Educación Física,5.97
+142,Centro 2,A,Matemáticas,5.41
+142,Centro 2,A,Lengua,5.75
+142,Centro 2,A,Historia,6.68
+142,Centro 2,A,Ciencias,8.48
+142,Centro 2,A,Inglés,6.14
+142,Centro 2,A,Educación Física,7.9
+143,Centro 1,B,Matemáticas,8.17
+143,Centro 1,B,Lengua,6.89
+143,Centro 1,B,Historia,6.58
+143,Centro 1,B,Ciencias,5.97
+143,Centro 1,B,Inglés,3.81
+143,Centro 1,B,Educación Física,6.17
+144,Centro 1,B,Matemáticas,5.15
+144,Centro 1,B,Lengua,8.01
+144,Centro 1,B,Historia,9.43
+144,Centro 1,B,Ciencias,6.26
+144,Centro 1,B,Inglés,7.73
+144,Centro 1,B,Educación Física,8.25
+145,Centro 3,B,Matemáticas,5.5
+145,Centro 3,B,Lengua,10.0
+145,Centro 3,B,Historia,4.38
+145,Centro 3,B,Ciencias,8.62
+145,Centro 3,B,Inglés,6.95
+145,Centro 3,B,Educación Física,6.49
+146,Centro 3,A,Matemáticas,6.12
+146,Centro 3,A,Lengua,4.44
+146,Centro 3,A,Historia,9.5
+146,Centro 3,A,Ciencias,5.64
+146,Centro 3,A,Inglés,5.65
+146,Centro 3,A,Educación Física,6.21
+147,Centro 2,A,Matemáticas,9.5
+147,Centro 2,A,Lengua,5.65
+147,Centro 2,A,Historia,9.73
+147,Centro 2,A,Ciencias,8.96
+147,Centro 2,A,Inglés,7.3
+147,Centro 2,A,Educación Física,6.57
+148,Centro 4,A,Matemáticas,6.88
+148,Centro 4,A,Lengua,6.41
+148,Centro 4,A,Historia,6.45
+148,Centro 4,A,Ciencias,3.28
+148,Centro 4,A,Inglés,7.67
+148,Centro 4,A,Educación Física,8.39
+149,Centro 5,B,Matemáticas,6.72
+149,Centro 5,B,Lengua,7.29
+149,Centro 5,B,Historia,7.73
+149,Centro 5,B,Ciencias,6.17
+149,Centro 5,B,Inglés,5.6
+149,Centro 5,B,Educación Física,8.38
+150,Centro 4,A,Matemáticas,5.49
+150,Centro 4,A,Lengua,10.0
+150,Centro 4,A,Historia,6.78
+150,Centro 4,A,Ciencias,6.17
+150,Centro 4,A,Inglés,1.0
+150,Centro 4,A,Educación Física,8.04
+151,Centro 3,A,Matemáticas,3.24
+151,Centro 3,A,Lengua,3.98
+151,Centro 3,A,Historia,5.96
+151,Centro 3,A,Ciencias,7.37
+151,Centro 3,A,Inglés,5.45
+151,Centro 3,A,Educación Física,7.7
+152,Centro 2,A,Matemáticas,5.12
+152,Centro 2,A,Lengua,7.37
+152,Centro 2,A,Historia,6.78
+152,Centro 2,A,Ciencias,4.84
+152,Centro 2,A,Inglés,7.11
+152,Centro 2,A,Educación Física,7.7
+153,Centro 2,A,Matemáticas,7.01
+153,Centro 2,A,Lengua,7.32
+153,Centro 2,A,Historia,7.48
+153,Centro 2,A,Ciencias,9.31
+153,Centro 2,A,Inglés,8.24
+153,Centro 2,A,Educación Física,3.67
+154,Centro 5,A,Matemáticas,7.17
+154,Centro 5,A,Lengua,5.6
+154,Centro 5,A,Historia,4.94
+154,Centro 5,A,Ciencias,7.01
+154,Centro 5,A,Inglés,5.54
+154,Centro 5,A,Educación Física,7.27
+155,Centro 4,A,Matemáticas,4.36
+155,Centro 4,A,Lengua,6.7
+155,Centro 4,A,Historia,7.46
+155,Centro 4,A,Ciencias,5.95
+155,Centro 4,A,Inglés,9.5
+155,Centro 4,A,Educación Física,7.75
+156,Centro 3,A,Matemáticas,5.28
+156,Centro 3,A,Lengua,5.23
+156,Centro 3,A,Historia,5.09
+156,Centro 3,A,Ciencias,8.6
+156,Centro 3,A,Inglés,3.99
+156,Centro 3,A,Educación Física,1.0
+157,Centro 1,B,Matemáticas,7.11
+157,Centro 1,B,Lengua,9.5
+157,Centro 1,B,Historia,7.0
+157,Centro 1,B,Ciencias,4.84
+157,Centro 1,B,Inglés,5.6
+157,Centro 1,B,Educación Física,5.96
+158,Centro 2,B,Matemáticas,6.42
+158,Centro 2,B,Lengua,7.75
+158,Centro 2,B,Historia,6.7
+158,Centro 2,B,Ciencias,7.3
+158,Centro 2,B,Inglés,4.49
+158,Centro 2,B,Educación Física,4.58
+159,Centro 2,A,Matemáticas,6.66
+159,Centro 2,A,Lengua,6.91
+159,Centro 2,A,Historia,8.94
+159,Centro 2,A,Ciencias,1.0
+159,Centro 2,A,Inglés,7.45
+159,Centro 2,A,Educación Física,6.64
+160,Centro 5,A,Matemáticas,4.78
+160,Centro 5,A,Lengua,8.27
+160,Centro 5,A,Historia,7.71
+160,Centro 5,A,Ciencias,7.02
+160,Centro 5,A,Inglés,6.07
+160,Centro 5,A,Educación Física,10.0
+161,Centro 3,B,Matemáticas,4.46
+161,Centro 3,B,Lengua,8.61
+161,Centro 3,B,Historia,6.85
+161,Centro 3,B,Ciencias,10.0
+161,Centro 3,B,Inglés,4.58
+161,Centro 3,B,Educación Física,6.66
+162,Centro 3,A,Matemáticas,4.59
+162,Centro 3,A,Lengua,5.57
+162,Centro 3,A,Historia,6.23
+162,Centro 3,A,Ciencias,4.68
+162,Centro 3,A,Inglés,9.16
+162,Centro 3,A,Educación Física,8.8
+163,Centro 1,A,Matemáticas,8.29
+163,Centro 1,A,Lengua,5.48
+163,Centro 1,A,Historia,5.21
+163,Centro 1,A,Ciencias,5.79
+163,Centro 1,A,Inglés,7.44
+163,Centro 1,A,Educación Física,5.33
+164,Centro 1,A,Matemáticas,7.39
+164,Centro 1,A,Lengua,7.09
+164,Centro 1,A,Historia,5.09
+164,Centro 1,A,Ciencias,5.57
+164,Centro 1,A,Inglés,6.35
+164,Centro 1,A,Educación Física,5.88
+165,Centro 1,A,Matemáticas,9.14
+165,Centro 1,A,Lengua,6.19
+165,Centro 1,A,Historia,7.51
+165,Centro 1,A,Ciencias,9.8
+165,Centro 1,A,Inglés,5.97
+165,Centro 1,A,Educación Física,5.49
+166,Centro 1,B,Matemáticas,5.74
+166,Centro 1,B,Lengua,5.62
+166,Centro 1,B,Historia,8.41
+166,Centro 1,B,Ciencias,7.15
+166,Centro 1,B,Inglés,6.22
+166,Centro 1,B,Educación Física,8.29
+167,Centro 1,A,Matemáticas,7.18
+167,Centro 1,A,Lengua,7.08
+167,Centro 1,A,Historia,7.4
+167,Centro 1,A,Ciencias,4.36
+167,Centro 1,A,Inglés,5.34
+167,Centro 1,A,Educación Física,6.1
+168,Centro 1,A,Matemáticas,7.91
+168,Centro 1,A,Lengua,5.81
+168,Centro 1,A,Historia,6.74
+168,Centro 1,A,Ciencias,8.82
+168,Centro 1,A,Inglés,6.18
+168,Centro 1,A,Educación Física,7.43
+169,Centro 2,B,Matemáticas,5.5
+169,Centro 2,B,Lengua,5.25
+169,Centro 2,B,Historia,6.7
+169,Centro 2,B,Ciencias,6.93
+169,Centro 2,B,Inglés,6.31
+169,Centro 2,B,Educación Física,6.44
+170,Centro 3,A,Matemáticas,5.75
+170,Centro 3,A,Lengua,4.58
+170,Centro 3,A,Historia,8.26
+170,Centro 3,A,Ciencias,6.85
+170,Centro 3,A,Inglés,5.87
+170,Centro 3,A,Educación Física,4.92
+171,Centro 3,B,Matemáticas,5.99
+171,Centro 3,B,Lengua,8.17
+171,Centro 3,B,Historia,7.18
+171,Centro 3,B,Ciencias,5.78
+171,Centro 3,B,Inglés,9.17
+171,Centro 3,B,Educación Física,5.73
+172,Centro 5,B,Matemáticas,4.29
+172,Centro 5,B,Lengua,6.26
+172,Centro 5,B,Historia,4.99
+172,Centro 5,B,Ciencias,6.11
+172,Centro 5,B,Inglés,9.13
+172,Centro 5,B,Educación Física,8.4
+173,Centro 5,A,Matemáticas,7.6
+173,Centro 5,A,Lengua,5.75
+173,Centro 5,A,Historia,5.25
+173,Centro 5,A,Ciencias,8.35
+173,Centro 5,A,Inglés,6.99
+173,Centro 5,A,Educación Física,7.93
+174,Centro 2,B,Matemáticas,8.07
+174,Centro 2,B,Lengua,9.61
+174,Centro 2,B,Historia,5.86
+174,Centro 2,B,Ciencias,6.88
+174,Centro 2,B,Inglés,6.32
+174,Centro 2,B,Educación Física,5.56
+175,Centro 5,A,Matemáticas,4.78
+175,Centro 5,A,Lengua,5.86
+175,Centro 5,A,Historia,4.38
+175,Centro 5,A,Ciencias,5.91
+175,Centro 5,A,Inglés,6.68
+175,Centro 5,A,Educación Física,5.69
+176,Centro 4,A,Matemáticas,4.4
+176,Centro 4,A,Lengua,6.51
+176,Centro 4,A,Historia,4.53
+176,Centro 4,A,Ciencias,5.16
+176,Centro 4,A,Inglés,6.68
+176,Centro 4,A,Educación Física,6.11
+177,Centro 3,B,Matemáticas,9.5
+177,Centro 3,B,Lengua,4.71
+177,Centro 3,B,Historia,5.91
+177,Centro 3,B,Ciencias,8.41
+177,Centro 3,B,Inglés,6.61
+177,Centro 3,B,Educación Física,6.04
+178,Centro 3,B,Matemáticas,7.28
+178,Centro 3,B,Lengua,8.76
+178,Centro 3,B,Historia,6.37
+178,Centro 3,B,Ciencias,5.22
+178,Centro 3,B,Inglés,7.06
+178,Centro 3,B,Educación Física,5.54
+179,Centro 4,B,Matemáticas,4.92
+179,Centro 4,B,Lengua,6.06
+179,Centro 4,B,Historia,6.0
+179,Centro 4,B,Ciencias,3.29
+179,Centro 4,B,Inglés,6.09
+179,Centro 4,B,Educación Física,10.0
+180,Centro 4,A,Matemáticas,4.78
+180,Centro 4,A,Lengua,9.55
+180,Centro 4,A,Historia,6.52
+180,Centro 4,A,Ciencias,6.27
+180,Centro 4,A,Inglés,6.04
+180,Centro 4,A,Educación Física,5.81
+181,Centro 1,A,Matemáticas,4.85
+181,Centro 1,A,Lengua,6.95
+181,Centro 1,A,Historia,6.24
+181,Centro 1,A,Ciencias,5.17
+181,Centro 1,A,Inglés,9.41
+181,Centro 1,A,Educación Física,6.78
+182,Centro 3,B,Matemáticas,7.41
+182,Centro 3,B,Lengua,8.26
+182,Centro 3,B,Historia,5.47
+182,Centro 3,B,Ciencias,6.17
+182,Centro 3,B,Inglés,7.08
+182,Centro 3,B,Educación Física,8.0
+183,Centro 5,A,Matemáticas,8.35
+183,Centro 5,A,Lengua,4.96
+183,Centro 5,A,Historia,5.61
+183,Centro 5,A,Ciencias,7.15
+183,Centro 5,A,Inglés,7.94
+183,Centro 5,A,Educación Física,5.24
+184,Centro 4,A,Matemáticas,6.78
+184,Centro 4,A,Lengua,4.89
+184,Centro 4,A,Historia,6.9
+184,Centro 4,A,Ciencias,6.72
+184,Centro 4,A,Inglés,7.93
+184,Centro 4,A,Educación Física,8.86
+185,Centro 1,B,Matemáticas,6.22
+185,Centro 1,B,Lengua,5.68
+185,Centro 1,B,Historia,9.5
+185,Centro 1,B,Ciencias,6.77
+185,Centro 1,B,Inglés,5.61
+185,Centro 1,B,Educación Física,4.38
+186,Centro 3,A,Matemáticas,3.76
+186,Centro 3,A,Lengua,4.41
+186,Centro 3,A,Historia,5.23
+186,Centro 3,A,Ciencias,5.13
+186,Centro 3,A,Inglés,6.3
+186,Centro 3,A,Educación Física,4.88
+187,Centro 5,B,Matemáticas,8.0
+187,Centro 5,B,Lengua,6.69
+187,Centro 5,B,Historia,7.39
+187,Centro 5,B,Ciencias,6.46
+187,Centro 5,B,Inglés,7.57
+187,Centro 5,B,Educación Física,5.64
+188,Centro 3,B,Matemáticas,5.31
+188,Centro 3,B,Lengua,8.19
+188,Centro 3,B,Historia,8.54
+188,Centro 3,B,Ciencias,7.1
+188,Centro 3,B,Inglés,7.19
+188,Centro 3,B,Educación Física,5.79
+189,Centro 3,A,Matemáticas,6.56
+189,Centro 3,A,Lengua,4.22
+189,Centro 3,A,Historia,5.91
+189,Centro 3,A,Ciencias,6.8
+189,Centro 3,A,Inglés,5.86
+189,Centro 3,A,Educación Física,9.12
+190,Centro 5,B,Matemáticas,7.28
+190,Centro 5,B,Lengua,6.27
+190,Centro 5,B,Historia,8.73
+190,Centro 5,B,Ciencias,8.38
+190,Centro 5,B,Inglés,5.16
+190,Centro 5,B,Educación Física,5.74
+191,Centro 5,A,Matemáticas,6.66
+191,Centro 5,A,Lengua,5.81
+191,Centro 5,A,Historia,5.6
+191,Centro 5,A,Ciencias,8.17
+191,Centro 5,A,Inglés,7.92
+191,Centro 5,A,Educación Física,4.61
+192,Centro 3,B,Matemáticas,5.07
+192,Centro 3,B,Lengua,7.74
+192,Centro 3,B,Historia,4.43
+192,Centro 3,B,Ciencias,7.61
+192,Centro 3,B,Inglés,6.23
+192,Centro 3,B,Educación Física,7.06
+193,Centro 4,B,Matemáticas,6.14
+193,Centro 4,B,Lengua,4.6
+193,Centro 4,B,Historia,8.38
+193,Centro 4,B,Ciencias,8.69
+193,Centro 4,B,Inglés,8.14
+193,Centro 4,B,Educación Física,6.54
+194,Centro 3,A,Matemáticas,9.03
+194,Centro 3,A,Lengua,5.86
+194,Centro 3,A,Historia,8.1
+194,Centro 3,A,Ciencias,8.21
+194,Centro 3,A,Inglés,6.31
+194,Centro 3,A,Educación Física,6.11
+195,Centro 4,B,Matemáticas,7.78
+195,Centro 4,B,Lengua,6.23
+195,Centro 4,B,Historia,7.36
+195,Centro 4,B,Ciencias,5.43
+195,Centro 4,B,Inglés,5.96
+195,Centro 4,B,Educación Física,5.66
+196,Centro 4,A,Matemáticas,6.19
+196,Centro 4,A,Lengua,6.23
+196,Centro 4,A,Historia,8.21
+196,Centro 4,A,Ciencias,7.87
+196,Centro 4,A,Inglés,8.5
+196,Centro 4,A,Educación Física,4.81
+197,Centro 2,B,Matemáticas,5.61
+197,Centro 2,B,Lengua,5.74
+197,Centro 2,B,Historia,6.28
+197,Centro 2,B,Ciencias,6.99
+197,Centro 2,B,Inglés,5.69
+197,Centro 2,B,Educación Física,7.87
+198,Centro 5,A,Matemáticas,7.43
+198,Centro 5,A,Lengua,7.58
+198,Centro 5,A,Historia,5.38
+198,Centro 5,A,Ciencias,7.76
+198,Centro 5,A,Inglés,7.17
+198,Centro 5,A,Educación Física,4.27
+199,Centro 2,A,Matemáticas,5.9
+199,Centro 2,A,Lengua,1.0
+199,Centro 2,A,Historia,5.87
+199,Centro 2,A,Ciencias,5.91
+199,Centro 2,A,Inglés,7.99
+199,Centro 2,A,Educación Física,7.4
+200,Centro 2,A,Matemáticas,4.54
+200,Centro 2,A,Lengua,6.48
+200,Centro 2,A,Historia,6.24
+200,Centro 2,A,Ciencias,9.08
+200,Centro 2,A,Inglés,6.48
+200,Centro 2,A,Educación Física,1.93
+201,Centro 3,A,Matemáticas,5.42
+201,Centro 3,A,Lengua,8.02
+201,Centro 3,A,Historia,6.43
+201,Centro 3,A,Ciencias,5.15
+201,Centro 3,A,Inglés,3.5
+201,Centro 3,A,Educación Física,5.19
+202,Centro 3,B,Matemáticas,6.82
+202,Centro 3,B,Lengua,7.8
+202,Centro 3,B,Historia,5.65
+202,Centro 3,B,Ciencias,2.0
+202,Centro 3,B,Inglés,6.2
+202,Centro 3,B,Educación Física,4.23
+203,Centro 3,B,Matemáticas,6.88
+203,Centro 3,B,Lengua,4.66
+203,Centro 3,B,Historia,6.1
+203,Centro 3,B,Ciencias,5.2
+203,Centro 3,B,Inglés,7.86
+203,Centro 3,B,Educación Física,5.85
+204,Centro 1,A,Matemáticas,5.68
+204,Centro 1,A,Lengua,5.37
+204,Centro 1,A,Historia,6.66
+204,Centro 1,A,Ciencias,4.94
+204,Centro 1,A,Inglés,6.94
+204,Centro 1,A,Educación Física,7.47
+205,Centro 4,B,Matemáticas,2.0
+205,Centro 4,B,Lengua,8.6
+205,Centro 4,B,Historia,6.43
+205,Centro 4,B,Ciencias,7.84
+205,Centro 4,B,Inglés,5.37
+205,Centro 4,B,Educación Física,4.08
+206,Centro 2,A,Matemáticas,7.01
+206,Centro 2,A,Lengua,6.5
+206,Centro 2,A,Historia,9.7
+206,Centro 2,A,Ciencias,10.0
+206,Centro 2,A,Inglés,6.13
+206,Centro 2,A,Educación Física,5.2
+207,Centro 5,A,Matemáticas,8.18
+207,Centro 5,A,Lengua,6.33
+207,Centro 5,A,Historia,6.37
+207,Centro 5,A,Ciencias,6.6
+207,Centro 5,A,Inglés,5.71
+207,Centro 5,A,Educación Física,7.61
+208,Centro 1,A,Matemáticas,8.58
+208,Centro 1,A,Lengua,7.69
+208,Centro 1,A,Historia,8.44
+208,Centro 1,A,Ciencias,5.28
+208,Centro 1,A,Inglés,7.28
+208,Centro 1,A,Educación Física,5.79
+209,Centro 5,B,Matemáticas,7.38
+209,Centro 5,B,Lengua,7.92
+209,Centro 5,B,Historia,7.67
+209,Centro 5,B,Ciencias,8.17
+209,Centro 5,B,Inglés,5.62
+209,Centro 5,B,Educación Física,5.94
+210,Centro 5,B,Matemáticas,6.96
+210,Centro 5,B,Lengua,7.04
+210,Centro 5,B,Historia,8.71
+210,Centro 5,B,Ciencias,2.53
+210,Centro 5,B,Inglés,6.9
+210,Centro 5,B,Educación Física,6.02
+211,Centro 2,B,Matemáticas,8.83
+211,Centro 2,B,Lengua,4.71
+211,Centro 2,B,Historia,5.26
+211,Centro 2,B,Ciencias,6.86
+211,Centro 2,B,Inglés,7.28
+211,Centro 2,B,Educación Física,5.11
+212,Centro 2,A,Matemáticas,10.0
+212,Centro 2,A,Lengua,6.36
+212,Centro 2,A,Historia,9.35
+212,Centro 2,A,Ciencias,6.52
+212,Centro 2,A,Inglés,8.41
+212,Centro 2,A,Educación Física,10.0
+213,Centro 3,B,Matemáticas,6.74
+213,Centro 3,B,Lengua,5.55
+213,Centro 3,B,Historia,5.43
+213,Centro 3,B,Ciencias,7.31
+213,Centro 3,B,Inglés,4.19
+213,Centro 3,B,Educación Física,9.68
+214,Centro 3,B,Matemáticas,7.95
+214,Centro 3,B,Lengua,6.16
+214,Centro 3,B,Historia,6.91
+214,Centro 3,B,Ciencias,5.46
+214,Centro 3,B,Inglés,7.26
+214,Centro 3,B,Educación Física,7.11
+215,Centro 2,A,Matemáticas,7.24
+215,Centro 2,A,Lengua,5.6
+215,Centro 2,A,Historia,7.62
+215,Centro 2,A,Ciencias,7.58
+215,Centro 2,A,Inglés,7.07
+215,Centro 2,A,Educación Física,8.26
+216,Centro 3,B,Matemáticas,8.59
+216,Centro 3,B,Lengua,7.04
+216,Centro 3,B,Historia,5.11
+216,Centro 3,B,Ciencias,3.97
+216,Centro 3,B,Inglés,3.82
+216,Centro 3,B,Educación Física,4.31
+217,Centro 5,B,Matemáticas,5.81
+217,Centro 5,B,Lengua,10.0
+217,Centro 5,B,Historia,7.27
+217,Centro 5,B,Ciencias,7.87
+217,Centro 5,B,Inglés,7.5
+217,Centro 5,B,Educación Física,8.72
+218,Centro 2,B,Matemáticas,9.74
+218,Centro 2,B,Lengua,6.23
+218,Centro 2,B,Historia,6.24
+218,Centro 2,B,Ciencias,6.52
+218,Centro 2,B,Inglés,6.52
+218,Centro 2,B,Educación Física,5.74
+219,Centro 5,B,Matemáticas,10.0
+219,Centro 5,B,Lengua,8.24
+219,Centro 5,B,Historia,4.09
+219,Centro 5,B,Ciencias,6.7
+219,Centro 5,B,Inglés,7.52
+219,Centro 5,B,Educación Física,5.24
+220,Centro 4,A,Matemáticas,7.84
+220,Centro 4,A,Lengua,5.28
+220,Centro 4,A,Historia,4.77
+220,Centro 4,A,Ciencias,4.62
+220,Centro 4,A,Inglés,7.61
+220,Centro 4,A,Educación Física,6.89
+221,Centro 5,A,Matemáticas,6.16
+221,Centro 5,A,Lengua,6.52
+221,Centro 5,A,Historia,4.35
+221,Centro 5,A,Ciencias,6.26
+221,Centro 5,A,Inglés,6.72
+221,Centro 5,A,Educación Física,4.01
+222,Centro 2,B,Matemáticas,5.82
+222,Centro 2,B,Lengua,5.21
+222,Centro 2,B,Historia,2.22
+222,Centro 2,B,Ciencias,5.49
+222,Centro 2,B,Inglés,6.24
+222,Centro 2,B,Educación Física,4.03
+223,Centro 3,A,Matemáticas,8.89
+223,Centro 3,A,Lengua,7.97
+223,Centro 3,A,Historia,8.7
+223,Centro 3,A,Ciencias,5.18
+223,Centro 3,A,Inglés,6.91
+223,Centro 3,A,Educación Física,7.67
+224,Centro 2,A,Matemáticas,6.03
+224,Centro 2,A,Lengua,5.9
+224,Centro 2,A,Historia,6.23
+224,Centro 2,A,Ciencias,9.35
+224,Centro 2,A,Inglés,7.45
+224,Centro 2,A,Educación Física,5.38
+225,Centro 5,A,Matemáticas,7.63
+225,Centro 5,A,Lengua,8.28
+225,Centro 5,A,Historia,8.91
+225,Centro 5,A,Ciencias,10.0
+225,Centro 5,A,Inglés,6.05
+225,Centro 5,A,Educación Física,8.54
+226,Centro 4,B,Matemáticas,5.85
+226,Centro 4,B,Lengua,5.6
+226,Centro 4,B,Historia,7.93
+226,Centro 4,B,Ciencias,8.1
+226,Centro 4,B,Inglés,7.57
+226,Centro 4,B,Educación Física,6.42
+227,Centro 4,A,Matemáticas,3.92
+227,Centro 4,A,Lengua,6.76
+227,Centro 4,A,Historia,7.01
+227,Centro 4,A,Ciencias,2.2
+227,Centro 4,A,Inglés,5.07
+227,Centro 4,A,Educación Física,7.78
+228,Centro 3,A,Matemáticas,5.27
+228,Centro 3,A,Lengua,5.32
+228,Centro 3,A,Historia,7.3
+228,Centro 3,A,Ciencias,9.49
+228,Centro 3,A,Inglés,6.02
+228,Centro 3,A,Educación Física,5.85
+229,Centro 3,B,Matemáticas,7.32
+229,Centro 3,B,Lengua,8.39
+229,Centro 3,B,Historia,3.57
+229,Centro 3,B,Ciencias,4.95
+229,Centro 3,B,Inglés,7.17
+229,Centro 3,B,Educación Física,7.82
+230,Centro 5,A,Matemáticas,5.68
+230,Centro 5,A,Lengua,7.66
+230,Centro 5,A,Historia,7.67
+230,Centro 5,A,Ciencias,6.47
+230,Centro 5,A,Inglés,6.07
+230,Centro 5,A,Educación Física,5.56
+231,Centro 2,A,Matemáticas,7.51
+231,Centro 2,A,Lengua,7.42
+231,Centro 2,A,Historia,8.38
+231,Centro 2,A,Ciencias,5.78
+231,Centro 2,A,Inglés,6.04
+231,Centro 2,A,Educación Física,5.9
+232,Centro 4,A,Matemáticas,5.3
+232,Centro 4,A,Lengua,7.19
+232,Centro 4,A,Historia,7.98
+232,Centro 4,A,Ciencias,5.99
+232,Centro 4,A,Inglés,7.05
+232,Centro 4,A,Educación Física,6.72
+233,Centro 4,B,Matemáticas,7.75
+233,Centro 4,B,Lengua,6.44
+233,Centro 4,B,Historia,7.96
+233,Centro 4,B,Ciencias,8.37
+233,Centro 4,B,Inglés,6.49
+233,Centro 4,B,Educación Física,10.0
+234,Centro 5,B,Matemáticas,4.49
+234,Centro 5,B,Lengua,8.39
+234,Centro 5,B,Historia,6.45
+234,Centro 5,B,Ciencias,6.22
+234,Centro 5,B,Inglés,5.22
+234,Centro 5,B,Educación Física,4.49
+235,Centro 2,A,Matemáticas,6.75
+235,Centro 2,A,Lengua,6.89
+235,Centro 2,A,Historia,3.62
+235,Centro 2,A,Ciencias,6.18
+235,Centro 2,A,Inglés,6.91
+235,Centro 2,A,Educación Física,7.6
+236,Centro 3,A,Matemáticas,6.8
+236,Centro 3,A,Lengua,8.38
+236,Centro 3,A,Historia,5.76
+236,Centro 3,A,Ciencias,7.8
+236,Centro 3,A,Inglés,6.92
+236,Centro 3,A,Educación Física,5.84
+237,Centro 1,A,Matemáticas,6.43
+237,Centro 1,A,Lengua,7.29
+237,Centro 1,A,Historia,7.79
+237,Centro 1,A,Ciencias,7.21
+237,Centro 1,A,Inglés,8.3
+237,Centro 1,A,Educación Física,6.1
+238,Centro 5,B,Matemáticas,5.1
+238,Centro 5,B,Lengua,9.7
+238,Centro 5,B,Historia,5.08
+238,Centro 5,B,Ciencias,4.54
+238,Centro 5,B,Inglés,5.32
+238,Centro 5,B,Educación Física,5.15
+239,Centro 5,A,Matemáticas,6.97
+239,Centro 5,A,Lengua,6.6
+239,Centro 5,A,Historia,3.91
+239,Centro 5,A,Ciencias,7.92
+239,Centro 5,A,Inglés,5.52
+239,Centro 5,A,Educación Física,5.46
+240,Centro 2,A,Matemáticas,8.14
+240,Centro 2,A,Lengua,9.9
+240,Centro 2,A,Historia,7.91
+240,Centro 2,A,Ciencias,5.24
+240,Centro 2,A,Inglés,6.28
+240,Centro 2,A,Educación Física,7.98
+241,Centro 2,B,Matemáticas,6.91
+241,Centro 2,B,Lengua,8.33
+241,Centro 2,B,Historia,7.08
+241,Centro 2,B,Ciencias,8.07
+241,Centro 2,B,Inglés,3.82
+241,Centro 2,B,Educación Física,6.42
+242,Centro 1,A,Matemáticas,4.69
+242,Centro 1,A,Lengua,7.08
+242,Centro 1,A,Historia,5.04
+242,Centro 1,A,Ciencias,7.51
+242,Centro 1,A,Inglés,8.01
+242,Centro 1,A,Educación Física,8.77
+243,Centro 3,A,Matemáticas,5.42
+243,Centro 3,A,Lengua,1.0
+243,Centro 3,A,Historia,6.17
+243,Centro 3,A,Ciencias,7.04
+243,Centro 3,A,Inglés,8.55
+243,Centro 3,A,Educación Física,7.07
+244,Centro 2,B,Matemáticas,5.71
+244,Centro 2,B,Lengua,2.93
+244,Centro 2,B,Historia,5.29
+244,Centro 2,B,Ciencias,5.91
+244,Centro 2,B,Inglés,7.05
+244,Centro 2,B,Educación Física,2.0
+245,Centro 4,A,Matemáticas,4.89
+245,Centro 4,A,Lengua,9.2
+245,Centro 4,A,Historia,7.38
+245,Centro 4,A,Ciencias,7.05
+245,Centro 4,A,Inglés,6.59
+245,Centro 4,A,Educación Física,10.0
+246,Centro 5,B,Matemáticas,6.66
+246,Centro 5,B,Lengua,7.43
+246,Centro 5,B,Historia,6.95
+246,Centro 5,B,Ciencias,7.02
+246,Centro 5,B,Inglés,3.64
+246,Centro 5,B,Educación Física,6.04
+247,Centro 5,A,Matemáticas,9.03
+247,Centro 5,A,Lengua,6.05
+247,Centro 5,A,Historia,7.96
+247,Centro 5,A,Ciencias,6.24
+247,Centro 5,A,Inglés,7.4
+247,Centro 5,A,Educación Física,4.99
+248,Centro 2,A,Matemáticas,6.11
+248,Centro 2,A,Lengua,5.54
+248,Centro 2,A,Historia,6.14
+248,Centro 2,A,Ciencias,4.56
+248,Centro 2,A,Inglés,4.6
+248,Centro 2,A,Educación Física,7.24
+249,Centro 4,A,Matemáticas,9.01
+249,Centro 4,A,Lengua,6.63
+249,Centro 4,A,Historia,6.63
+249,Centro 4,A,Ciencias,5.69
+249,Centro 4,A,Inglés,6.85
+249,Centro 4,A,Educación Física,5.33
+250,Centro 5,A,Matemáticas,10.0
+250,Centro 5,A,Lengua,6.59
+250,Centro 5,A,Historia,6.91
+250,Centro 5,A,Ciencias,6.14
+250,Centro 5,A,Inglés,8.03
+250,Centro 5,A,Educación Física,5.83
+251,Centro 5,A,Matemáticas,5.3
+251,Centro 5,A,Lengua,6.54
+251,Centro 5,A,Historia,6.99
+251,Centro 5,A,Ciencias,4.4
+251,Centro 5,A,Inglés,6.87
+251,Centro 5,A,Educación Física,7.8
+252,Centro 1,A,Matemáticas,6.33
+252,Centro 1,A,Lengua,5.44
+252,Centro 1,A,Historia,7.21
+252,Centro 1,A,Ciencias,7.04
+252,Centro 1,A,Inglés,6.55
+252,Centro 1,A,Educación Física,4.81
+253,Centro 5,B,Matemáticas,6.75
+253,Centro 5,B,Lengua,7.07
+253,Centro 5,B,Historia,4.76
+253,Centro 5,B,Ciencias,7.39
+253,Centro 5,B,Inglés,8.04
+253,Centro 5,B,Educación Física,5.84
+254,Centro 1,A,Matemáticas,4.6
+254,Centro 1,A,Lengua,4.73
+254,Centro 1,A,Historia,4.65
+254,Centro 1,A,Ciencias,7.24
+254,Centro 1,A,Inglés,7.11
+254,Centro 1,A,Educación Física,6.77
+255,Centro 4,A,Matemáticas,4.49
+255,Centro 4,A,Lengua,9.31
+255,Centro 4,A,Historia,4.56
+255,Centro 4,A,Ciencias,7.23
+255,Centro 4,A,Inglés,5.61
+255,Centro 4,A,Educación Física,8.14
+256,Centro 3,A,Matemáticas,3.27
+256,Centro 3,A,Lengua,7.11
+256,Centro 3,A,Historia,7.24
+256,Centro 3,A,Ciencias,4.99
+256,Centro 3,A,Inglés,6.71
+256,Centro 3,A,Educación Física,7.3
+257,Centro 2,A,Matemáticas,6.79
+257,Centro 2,A,Lengua,7.02
+257,Centro 2,A,Historia,4.38
+257,Centro 2,A,Ciencias,8.34
+257,Centro 2,A,Inglés,6.98
+257,Centro 2,A,Educación Física,6.93
+258,Centro 2,B,Matemáticas,6.21
+258,Centro 2,B,Lengua,8.54
+258,Centro 2,B,Historia,6.45
+258,Centro 2,B,Ciencias,3.5
+258,Centro 2,B,Inglés,7.84
+258,Centro 2,B,Educación Física,6.98
+259,Centro 4,B,Matemáticas,7.23
+259,Centro 4,B,Lengua,4.85
+259,Centro 4,B,Historia,6.18
+259,Centro 4,B,Ciencias,6.35
+259,Centro 4,B,Inglés,6.41
+259,Centro 4,B,Educación Física,6.14
+260,Centro 2,B,Matemáticas,8.26
+260,Centro 2,B,Lengua,5.97
+260,Centro 2,B,Historia,7.15
+260,Centro 2,B,Ciencias,4.73
+260,Centro 2,B,Inglés,5.52
+260,Centro 2,B,Educación Física,5.71
+261,Centro 4,B,Matemáticas,5.94
+261,Centro 4,B,Lengua,6.26
+261,Centro 4,B,Historia,7.13
+261,Centro 4,B,Ciencias,6.72
+261,Centro 4,B,Inglés,9.18
+261,Centro 4,B,Educación Física,4.86
+262,Centro 1,A,Matemáticas,4.55
+262,Centro 1,A,Lengua,9.18
+262,Centro 1,A,Historia,6.02
+262,Centro 1,A,Ciencias,5.3
+262,Centro 1,A,Inglés,5.33
+262,Centro 1,A,Educación Física,6.99
+263,Centro 5,B,Matemáticas,8.39
+263,Centro 5,B,Lengua,3.99
+263,Centro 5,B,Historia,6.22
+263,Centro 5,B,Ciencias,7.09
+263,Centro 5,B,Inglés,8.78
+263,Centro 5,B,Educación Física,7.02
+264,Centro 1,B,Matemáticas,6.65
+264,Centro 1,B,Lengua,5.81
+264,Centro 1,B,Historia,6.38
+264,Centro 1,B,Ciencias,6.43
+264,Centro 1,B,Inglés,8.51
+264,Centro 1,B,Educación Física,9.5
+265,Centro 3,B,Matemáticas,6.24
+265,Centro 3,B,Lengua,4.42
+265,Centro 3,B,Historia,10.0
+265,Centro 3,B,Ciencias,5.7
+265,Centro 3,B,Inglés,7.38
+265,Centro 3,B,Educación Física,6.66
+266,Centro 1,B,Matemáticas,5.07
+266,Centro 1,B,Lengua,10.0
+266,Centro 1,B,Historia,7.01
+266,Centro 1,B,Ciencias,6.95
+266,Centro 1,B,Inglés,4.52
+266,Centro 1,B,Educación Física,6.49
+267,Centro 2,B,Matemáticas,6.8
+267,Centro 2,B,Lengua,6.01
+267,Centro 2,B,Historia,3.72
+267,Centro 2,B,Ciencias,8.24
+267,Centro 2,B,Inglés,7.37
+267,Centro 2,B,Educación Física,6.82
+268,Centro 1,A,Matemáticas,6.58
+268,Centro 1,A,Lengua,8.89
+268,Centro 1,A,Historia,5.73
+268,Centro 1,A,Ciencias,7.52
+268,Centro 1,A,Inglés,6.48
+268,Centro 1,A,Educación Física,6.53
+269,Centro 2,B,Matemáticas,6.71
+269,Centro 2,B,Lengua,4.74
+269,Centro 2,B,Historia,6.82
+269,Centro 2,B,Ciencias,4.94
+269,Centro 2,B,Inglés,6.13
+269,Centro 2,B,Educación Física,4.29
+270,Centro 2,A,Matemáticas,6.16
+270,Centro 2,A,Lengua,4.66
+270,Centro 2,A,Historia,2.0
+270,Centro 2,A,Ciencias,6.37
+270,Centro 2,A,Inglés,6.35
+270,Centro 2,A,Educación Física,7.61
+271,Centro 4,A,Matemáticas,8.05
+271,Centro 4,A,Lengua,6.43
+271,Centro 4,A,Historia,9.5
+271,Centro 4,A,Ciencias,8.02
+271,Centro 4,A,Inglés,6.82
+271,Centro 4,A,Educación Física,6.41
+272,Centro 1,B,Matemáticas,6.61
+272,Centro 1,B,Lengua,7.19
+272,Centro 1,B,Historia,6.48
+272,Centro 1,B,Ciencias,6.84
+272,Centro 1,B,Inglés,4.56
+272,Centro 1,B,Educación Física,5.29
+273,Centro 2,B,Matemáticas,4.05
+273,Centro 2,B,Lengua,6.11
+273,Centro 2,B,Historia,5.55
+273,Centro 2,B,Ciencias,5.39
+273,Centro 2,B,Inglés,4.74
+273,Centro 2,B,Educación Física,7.07
+274,Centro 3,A,Matemáticas,2.49
+274,Centro 3,A,Lengua,6.7
+274,Centro 3,A,Historia,6.99
+274,Centro 3,A,Ciencias,4.85
+274,Centro 3,A,Inglés,5.19
+274,Centro 3,A,Educación Física,7.65
+275,Centro 2,B,Matemáticas,7.31
+275,Centro 2,B,Lengua,8.99
+275,Centro 2,B,Historia,5.39
+275,Centro 2,B,Ciencias,6.66
+275,Centro 2,B,Inglés,7.58
+275,Centro 2,B,Educación Física,4.72
+276,Centro 5,A,Matemáticas,8.07
+276,Centro 5,A,Lengua,9.59
+276,Centro 5,A,Historia,6.72
+276,Centro 5,A,Ciencias,6.84
+276,Centro 5,A,Inglés,6.78
+276,Centro 5,A,Educación Física,8.27
+277,Centro 2,A,Matemáticas,6.72
+277,Centro 2,A,Lengua,3.2
+277,Centro 2,A,Historia,4.18
+277,Centro 2,A,Ciencias,6.96
+277,Centro 2,A,Inglés,9.98
+277,Centro 2,A,Educación Física,7.4
+278,Centro 5,A,Matemáticas,7.86
+278,Centro 5,A,Lengua,8.18
+278,Centro 5,A,Historia,5.8
+278,Centro 5,A,Ciencias,5.43
+278,Centro 5,A,Inglés,4.62
+278,Centro 5,A,Educación Física,5.45
+279,Centro 3,A,Matemáticas,6.43
+279,Centro 3,A,Lengua,7.9
+279,Centro 3,A,Historia,7.42
+279,Centro 3,A,Ciencias,6.08
+279,Centro 3,A,Inglés,6.48
+279,Centro 3,A,Educación Física,7.25
+280,Centro 5,B,Matemáticas,9.88
+280,Centro 5,B,Lengua,5.82
+280,Centro 5,B,Historia,4.82
+280,Centro 5,B,Ciencias,6.24
+280,Centro 5,B,Inglés,2.0
+280,Centro 5,B,Educación Física,6.76
+281,Centro 3,A,Matemáticas,8.45
+281,Centro 3,A,Lengua,7.34
+281,Centro 3,A,Historia,5.93
+281,Centro 3,A,Ciencias,7.54
+281,Centro 3,A,Inglés,4.12
+281,Centro 3,A,Educación Física,6.23
+282,Centro 4,B,Matemáticas,6.23
+282,Centro 4,B,Lengua,6.14
+282,Centro 4,B,Historia,6.45
+282,Centro 4,B,Ciencias,8.69
+282,Centro 4,B,Inglés,3.66
+282,Centro 4,B,Educación Física,6.9
+283,Centro 3,B,Matemáticas,6.9
+283,Centro 3,B,Lengua,5.19
+283,Centro 3,B,Historia,7.95
+283,Centro 3,B,Ciencias,5.31
+283,Centro 3,B,Inglés,6.44
+283,Centro 3,B,Educación Física,7.56
+284,Centro 1,B,Matemáticas,5.55
+284,Centro 1,B,Lengua,8.13
+284,Centro 1,B,Historia,7.58
+284,Centro 1,B,Ciencias,2.0
+284,Centro 1,B,Inglés,4.9
+284,Centro 1,B,Educación Física,5.99
+285,Centro 1,A,Matemáticas,7.34
+285,Centro 1,A,Lengua,5.31
+285,Centro 1,A,Historia,8.5
+285,Centro 1,A,Ciencias,7.37
+285,Centro 1,A,Inglés,5.77
+285,Centro 1,A,Educación Física,5.36
+286,Centro 5,B,Matemáticas,8.87
+286,Centro 5,B,Lengua,5.65
+286,Centro 5,B,Historia,4.89
+286,Centro 5,B,Ciencias,7.66
+286,Centro 5,B,Inglés,6.51
+286,Centro 5,B,Educación Física,9.61
+287,Centro 4,B,Matemáticas,5.82
+287,Centro 4,B,Lengua,6.43
+287,Centro 4,B,Historia,6.8
+287,Centro 4,B,Ciencias,6.81
+287,Centro 4,B,Inglés,7.56
+287,Centro 4,B,Educación Física,3.5
+288,Centro 5,B,Matemáticas,6.21
+288,Centro 5,B,Lengua,9.14
+288,Centro 5,B,Historia,5.4
+288,Centro 5,B,Ciencias,4.35
+288,Centro 5,B,Inglés,7.83
+288,Centro 5,B,Educación Física,8.02
+289,Centro 2,A,Matemáticas,7.42
+289,Centro 2,A,Lengua,7.43
+289,Centro 2,A,Historia,6.27
+289,Centro 2,A,Ciencias,7.14
+289,Centro 2,A,Inglés,8.88
+289,Centro 2,A,Educación Física,6.74
+290,Centro 4,A,Matemáticas,5.63
+290,Centro 4,A,Lengua,6.98
+290,Centro 4,A,Historia,7.29
+290,Centro 4,A,Ciencias,10.0
+290,Centro 4,A,Inglés,9.86
+290,Centro 4,A,Educación Física,5.7
+291,Centro 3,B,Matemáticas,6.37
+291,Centro 3,B,Lengua,4.63
+291,Centro 3,B,Historia,4.39
+291,Centro 3,B,Ciencias,6.46
+291,Centro 3,B,Inglés,4.8
+291,Centro 3,B,Educación Física,7.2
+292,Centro 2,B,Matemáticas,5.63
+292,Centro 2,B,Lengua,6.87
+292,Centro 2,B,Historia,5.04
+292,Centro 2,B,Ciencias,7.9
+292,Centro 2,B,Inglés,4.82
+292,Centro 2,B,Educación Física,6.99
+293,Centro 2,B,Matemáticas,8.06
+293,Centro 2,B,Lengua,7.19
+293,Centro 2,B,Historia,6.26
+293,Centro 2,B,Ciencias,7.29
+293,Centro 2,B,Inglés,9.5
+293,Centro 2,B,Educación Física,5.33
+294,Centro 4,A,Matemáticas,7.67
+294,Centro 4,A,Lengua,4.82
+294,Centro 4,A,Historia,5.63
+294,Centro 4,A,Ciencias,4.71
+294,Centro 4,A,Inglés,4.84
+294,Centro 4,A,Educación Física,7.68
+295,Centro 4,B,Matemáticas,3.86
+295,Centro 4,B,Lengua,6.94
+295,Centro 4,B,Historia,5.89
+295,Centro 4,B,Ciencias,6.21
+295,Centro 4,B,Inglés,6.25
+295,Centro 4,B,Educación Física,6.54
+296,Centro 1,A,Matemáticas,4.58
+296,Centro 1,A,Lengua,7.09
+296,Centro 1,A,Historia,9.7
+296,Centro 1,A,Ciencias,5.0
+296,Centro 1,A,Inglés,6.5
+296,Centro 1,A,Educación Física,6.44
+297,Centro 3,A,Matemáticas,9.07
+297,Centro 3,A,Lengua,6.0
+297,Centro 3,A,Historia,7.55
+297,Centro 3,A,Ciencias,4.9
+297,Centro 3,A,Inglés,6.56
+297,Centro 3,A,Educación Física,8.87
+298,Centro 1,B,Matemáticas,4.79
+298,Centro 1,B,Lengua,6.42
+298,Centro 1,B,Historia,7.96
+298,Centro 1,B,Ciencias,8.31
+298,Centro 1,B,Inglés,3.26
+298,Centro 1,B,Educación Física,6.76
+299,Centro 2,B,Matemáticas,6.4
+299,Centro 2,B,Lengua,5.07
+299,Centro 2,B,Historia,5.08
+299,Centro 2,B,Ciencias,10.0
+299,Centro 2,B,Inglés,6.16
+299,Centro 2,B,Educación Física,7.14
+300,Centro 3,B,Matemáticas,7.17
+300,Centro 3,B,Lengua,6.63
+300,Centro 3,B,Historia,3.89
+300,Centro 3,B,Ciencias,5.69
+300,Centro 3,B,Inglés,10.0
+300,Centro 3,B,Educación Física,7.78
